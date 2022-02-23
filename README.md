@@ -52,6 +52,6 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left ">
 <p>Email: <b>gabrielguimasilva@hotmail.com</b></p>
-<a href="https://linkedin.com/in/linkedin.com/in/gabriel-ferreira-655034211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin.com/in/gabriel-ferreira-655034211" height= "80" largura="100" /></a>
+<a href="https://www.linkedin.com/in/gabriel-ferreira-655034211/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin.com/in/gabriel-ferreira-655034211" height= "80" largura="100" /></a>
 <a href="https://www.instagram.com/gabriel_f._silva_/" target="blank"><img align="center" src="https://image.shutterstock.com/image-photo/image-260nw-499761802.svg" alt="https://www.instagram.com/gabriel_f._silva_/" width="40px" /></a>
 
