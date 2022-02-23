@@ -13,7 +13,7 @@
 # Sobre
 
 <p>Projeto desenvolvido para teste de candidatura para vaga de Desenvolvedor na empresa Morpheus Tecnologia.<p>
-<p>O Front-End desse projeto está disponível <a href="https://github.com/gabrielferreiradasilva/Teste-Morpheus-Frontend/blob/main/README.md">aqui</a>.</p>
+<p>O Front-End desse projeto está disponível <a href="https://github.com/gabrielferreiradasilva/Teste-Morpheus-Frontend">aqui</a>.</p>
 
 # Tecnologias
 
