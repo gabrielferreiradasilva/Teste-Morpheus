@@ -35,7 +35,7 @@
 
 <p>Para ver este projeto em funcionamento, primeiro, você vai precisar clonar este repositório na sua máquina ou baixar o zip e extrair na pasta de sua preferencia em sua máquina.</p>
 <p>Você também vai precisar do <a href="https://spring.io/tools">Spring Tools 4 para Eclipse</a> ou alguma ferramenta de sua preferencia (certifique-se que você consiga inicializar o projeto com a ferramenta). No STS4 você vai importar o projeto para a ferramenta e entrar no painel de inicialização (boot dashboard) e inicializa-lo (o Lombok inicializa o projeto na porta 8080, então certifique-se antes de que a porta esteja disponível).</p>
-<p>Caso não haja nenhum problema, você pode ver o projeto em funcionamento e testar as funcionalidades com o <a href="https://www.postman.com/downloads/">Postman</a>, ou alguma outra ferramenta de sua preferencia, ou importar o <a href="https://github.com/gabrielferreiradasilva/Teste-Morpheus-Frontend">repositório do Front-End</a> e utilizar através do seu navegador com a porta local gerada pelo inicializador do Front-end (você pode ver o manual <a href="https://github.com/gabrielferreiradasilva/Teste-Morpheus-Frontend/blob/main/README.md">aqui</a>).
+<p>Caso não haja nenhum problema, você pode ver o projeto em funcionamento e testar as funcionalidades com o <a href="https://github.com/gabrielferreiradasilva/Teste-Morpheus-Frontend">Front-End</a> através do seu navegador com a porta local gerada pelo inicializador do Front-end (você pode ver o manual <a href="https://github.com/gabrielferreiradasilva/Teste-Morpheus-Frontend/blob/main/README.md">aqui</a>).
 
 # Autor
   
